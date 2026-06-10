@@ -1,4 +1,4 @@
-# Embedded Systems Project Report
+# Embedded Systems Project 
 
 This report is split into 6 sections:
 
@@ -8,6 +8,8 @@ This report is split into 6 sections:
 - Section 4: Technical description of individual implementation
 - Section 5: Evidence of testing of individual implementation
 - Section 6: Professional considerations
+
+The relevant files for group implementaion can be found under the GROUPCODE folder and for individual implementation under MYCODE folder.
 
 ## SECTION 1: Project Summary
 

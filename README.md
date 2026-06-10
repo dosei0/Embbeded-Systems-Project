@@ -1,4 +1,4 @@
-## Embedded Systems Project Report
+# Embedded Systems Project Report
 
 This report is split into 6 sections:
 
@@ -9,7 +9,7 @@ This report is split into 6 sections:
 - Section 5: Evidence of testing of individual implementation
 - Section 6: Professional considerations
 
-# SECTION 1: Project Summary
+## SECTION 1: Project Summary
 
 **Group project goals**
 
@@ -45,7 +45,7 @@ The individual project was a self-chosen project from a list of possibilities gi
 
 The individual project depended heavily on the group project as reasonable and reliable way sending the audio via the serial port was required, therefore there were even more strenuous time constraints as the bulk of the project could not be attempted until this had been accomplished. I believe that the project was successful because the majority of the goals outlined in the brief were met, the GUI was very creative and made use of a large range of hues and light intensities. However, a more impressive GUI could have been made if there was more time provided, as the GUI doesn't offer any time-based effect. Therefore, I would say that my personal goal of working balancing my time efficiently was not met because I did not have enough time to fully complete the individual component.
 
-# SECTION 2: Technical description of the group component implementation
+## SECTION 2: Technical description of the group component implementation
 
 **General Hardware**
 
@@ -79,7 +79,7 @@ The GUI is shown below, it was made using tkinter in Python. Every step of the d
 
 The intensity graph above was made using Python's matplotlib library. A graphics library such as pyQT could have been used to provide better visuals, but we decided that we should keep our solution simple as an audio visualiser was my chosen individual project so a creative visualisation would be added anyway.
 
-# SECTION 3: Evidence of Testing of group implementation
+## SECTION 3: Evidence of Testing of group implementation
 
 **Test Strategy**
 
@@ -91,7 +91,7 @@ All in all, I would say that the group testing has been successful because we ha
 
 BELOW IS THE TABLE SHOWING THE ACTUAL TESTS THAT WERE CARRIED OUT AND THE RESULTS:
 
-# SECTION 4: Technical Description of individual component implementation
+## SECTION 4: Technical Description of individual component implementation
 
 **Creating the Visualisation**
 
@@ -111,7 +111,7 @@ I also wanted to find common frequency values, which required me to make use of 
 
 Finally, I made my dynamic GUI by making the 18 cubes each represent a common audio frequency and then I computed the height of the cubes by making them a product to the amplitudes of each frequency that was represented by the 18 cubes. After this I set the colours that I would use to fill each cube to represent different levels of audio, low sound, medium or high. By doing this a dynamic GUI that changed at a rate of 20fps was created, I also tried to make a time-based pulsing effect but I was unsuccessful due to the pulsing causing all the elements on the GUI to go black. Below the GUI is shown at 2 different time points.
 
-# SECTION 5: Evidence of Testing of individual implementation
+## SECTION 5: Evidence of Testing of individual implementation
 
 **Test Strategy**
 
@@ -123,7 +123,7 @@ All in all, I would say that the individual testing has been successful because 
 
 BELOW IS THE TABLE SHOWING THE ACTUAL TESTS THAT WERE CARRIED OUT AND THE RESULTS:
 
-# Section 6: Professional Considerations
+## Section 6: Professional Considerations
 
 **Project SWOT analysis**
 

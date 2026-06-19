@@ -167,7 +167,7 @@ BELOW IS THE TABLE SHOWING THE ACTUAL TESTS THAT WERE CARRIED OUT AND THE RESULT
 | Requirements Testing | Checking that a time based pulse effect works                         | Multiple lines of code                            | N/A           |<img width="491" height="567" alt="image" src="https://github.com/user-attachments/assets/2732ba6b-5c6c-4130-9996-fc89d93a76b1" />| Should have bars pulsing with a grey colour                                | Bad result. Does not work at all and must be removed for product to work | 25/03/19      |
 
 
-## Section 6: Professional Considerations
+## SECTION 6: Professional Considerations
 
 **Project SWOT analysis**
 | SWOT | Helpful to achieving the objective| Harmful to achieving the objective|                                            
